@@ -1,0 +1,14 @@
+html, body {
+  background-color: #b7c9e2;
+  height: 100%;
+  margin: 0;
+}
+
+.ROOT-CSS {
+  height: 600;
+  width: 400;
+}
+
+body::backdrop {
+  background-color: #b7c9e2;
+}
